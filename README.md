@@ -16,11 +16,13 @@ Changes are
 
 Licensing
 
-The original work is under a BSD license (see COPYING), the derived work
-is released under the AGPLv3 license (see COPYING-AGPLv3).
+This work is licensed under the AGPLv3 license (see COPYING).
 
-    Usage:
-      png2theorav [OPTION...] INPUT - create theora movie from png files
+The original work it is based on was released under a BSD license (see COPYING-ORIGINAL).
+
+Usage
+
+    png2theorav [OPTION...] INPUT - create theora movie from png files
 
     The INPUT argument uses C printf format to represent a list of files, i.e. file-%%06d.png to look for files file000001.png to file9999999.png
 
