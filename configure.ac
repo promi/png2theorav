@@ -59,7 +59,7 @@ dnl AC_CHECK_LIB([m], lrint)
 dnl Check for vala
 AM_PROG_VALAC([0.10.0])
 
-PKG_CHECK_MODULES(PNG2THEORAV, [gio-2.0 gee-0.8 ogg theoraenc libpng])
+PKG_CHECK_MODULES(PNG2THEORAV, [glib-2.0 gio-2.0 gee-0.8 ogg theoraenc libpng])
 
 AC_OUTPUT([
 Makefile

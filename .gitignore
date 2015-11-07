@@ -8,3 +8,14 @@
 /missing
 /INSTALL
 /aclocal.m4
+/src/*.c 
+/src/*.o
+/src/.deps/
+/stamp-h1
+/Makefile
+/Makefile.in
+/src/Makefile
+/src/Makefile.in
+/libtool
+/src/png2theorav
+/src/png2theorav_vala.stamp
